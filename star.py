@@ -1,3 +1,5 @@
+# Collins Wanga
+
 import turtle
 t = turtle.Turtle()
 for i in range (6):
